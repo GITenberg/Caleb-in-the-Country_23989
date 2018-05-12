@@ -1,0 +1,35 @@
+_repo: Caleb-in-the-Country_23989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: Images of the original pages are available through the Florida Board
+  of Education, Division of Colleges and Universities, PALMM Project (Preservation
+  and Access for American and British Children's Literature). See http://fulltext10.fcla.edu/cgi/t/text/text-idx?c=juv&idno=UF00002184&format=jpg
+  or http://fulltext10.fcla.edu/cgi/t/text/text-idx?c=juv&idno=UF00002184&format=pdf
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Grandmothers -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: Caleb in the Country
+url: http://www.gutenberg.org/ebooks/23989
